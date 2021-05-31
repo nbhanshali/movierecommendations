@@ -1,0 +1,9 @@
+# CSC111 Final Project: Python libraries we'll be using for the project.
+
+# Testing and code checking
+hypothesis
+pytest
+python-ta~=1.6.3
+
+# Other
+pandas~=1.2.3
